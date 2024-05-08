@@ -1,0 +1,17 @@
+NO ./textures/rectangle/nord.xpm
+SO ./textures/rectangle/sud.xpm
+WE ./textures/rectangle/ouest.xpm
+EA ./textures/rectangle/est.xpm
+
+F 200,200,200
+C 0,100,200
+
+111111111
+100000001
+100000001
+100000001
+1000W0011
+100000001
+100000001
+100010001
+111111111

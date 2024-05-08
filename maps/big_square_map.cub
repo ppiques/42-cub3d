@@ -1,0 +1,19 @@
+NO ./textures/pabo/small.xpm
+SO ./textures/direction/south.xpm
+WE ./textures/direction/west.xpm
+EA ./textures/direction/east.xpm
+
+F 200,200,200
+C 0,100,200
+
+11111111111
+10000100001
+10000000001
+10000000001
+10000000001
+11000W00011
+10000000001
+10000000001
+10000000001
+10000100001
+11111111111
